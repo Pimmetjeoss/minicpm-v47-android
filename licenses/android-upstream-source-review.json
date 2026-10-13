@@ -1,0 +1,996 @@
+{
+  "scope": "Bounded practical Android debugRuntimeClasspath review, not legal clearance. All 64 exact official published source JARs inspected for license/NOTICE filenames and initial source copyright headers; upstream versioned license directories and selected repository trees reviewed. Existing native evidence unchanged.",
+  "artifact_count": 64,
+  "source_artifacts": [
+    {
+      "coordinate": "androidx.activity:activity-ktx:1.8.0",
+      "url": "https://dl.google.com/dl/android/maven2/androidx/activity/activity-ktx/1.8.0/activity-ktx-1.8.0-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [
+        "Copyright 2018 The Android Open Source Project",
+        "Copyright 2020 The Android Open Source Project"
+      ],
+      "source_entry_count": 10,
+      "source_sha256": "9e86834b7ca5b2c13e2adf3ec0766521e198f9e1969dc6e1b642c9c57f2f603e"
+    },
+    {
+      "coordinate": "androidx.activity:activity:1.8.0",
+      "url": "https://dl.google.com/dl/android/maven2/androidx/activity/activity/1.8.0/activity-1.8.0-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [
+        "Copyright (C) 2020 The Android Open Source Project",
+        "Copyright 2018 The Android Open Source Project",
+        "Copyright 2019 The Android Open Source Project",
+        "Copyright 2020 The Android Open Source Project",
+        "Copyright 2021 The Android Open Source Project",
+        "Copyright 2022 The Android Open Source Project",
+        "Copyright 2023 The Android Open Source Project"
+      ],
+      "source_entry_count": 33,
+      "source_sha256": "0426ba5bf1a8d3fe94610ece12e1af150b6a1a565d87539ffa50e614a50547e6"
+    },
+    {
+      "coordinate": "androidx.annotation:annotation-experimental:1.3.0",
+      "url": "https://dl.google.com/dl/android/maven2/androidx/annotation/annotation-experimental/1.3.0/annotation-experimental-1.3.0-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [
+        "Copyright 2019 The Android Open Source Project",
+        "Copyright 2020 The Android Open Source Project"
+      ],
+      "source_entry_count": 9,
+      "source_sha256": "90ea2761129cfe76516171e6b26f7c016178b97828ddc85cdfdd5f6e83e40d35"
+    },
+    {
+      "coordinate": "androidx.annotation:annotation-jvm:1.6.0",
+      "url": "https://dl.google.com/dl/android/maven2/androidx/annotation/annotation-jvm/1.6.0/annotation-jvm-1.6.0-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [
+        "Copyright (C) 2013 The Android Open Source Project",
+        "Copyright (C) 2014 The Android Open Source Project",
+        "Copyright (C) 2015 The Android Open Source Project",
+        "Copyright (C) 2016 The Android Open Source Project",
+        "Copyright (C) 2017 The Android Open Source Project",
+        "Copyright (C) 2020 The Android Open Source Project",
+        "Copyright (C) 2021 The Android Open Source Project",
+        "Copyright (C) 2022 The Android Open Source Project",
+        "Copyright 2018 The Android Open Source Project",
+        "Copyright 2019 The Android Open Source Project",
+        "Copyright 2021 The Android Open Source Project"
+      ],
+      "source_entry_count": 76,
+      "source_sha256": "c7b943eab2c9a1c9e815fa93ffc0edef15c7431b3fb7f509e0d00a86d8d50f5a"
+    },
+    {
+      "coordinate": "androidx.appcompat:appcompat-resources:1.6.1",
+      "url": "https://dl.google.com/dl/android/maven2/androidx/appcompat/appcompat-resources/1.6.1/appcompat-resources-1.6.1-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [
+        "Copyright (C) 2014 The Android Open Source Project",
+        "Copyright (C) 2015 The Android Open Source Project",
+        "Copyright (C) 2018 The Android Open Source Project",
+        "Copyright (C) 2019 The Android Open Source Project",
+        "Copyright 2016 The Android Open Source Project",
+        "Copyright 2021 The Android Open Source Project"
+      ],
+      "source_entry_count": 23,
+      "source_sha256": "cd2dcd239ec449ad6b860d4e8273f01caa633f89bcc0d356d176fc781692d5dc"
+    },
+    {
+      "coordinate": "androidx.appcompat:appcompat:1.6.1",
+      "url": "https://dl.google.com/dl/android/maven2/androidx/appcompat/appcompat/1.6.1/appcompat-1.6.1-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [
+        "Copyright (C) 2006 The Android Open Source Project",
+        "Copyright (C) 2010 The Android Open Source Project",
+        "Copyright (C) 2011 The Android Open Source Project",
+        "Copyright (C) 2012 The Android Open Source Project",
+        "Copyright (C) 2013 The Android Open Source Project",
+        "Copyright (C) 2014 The Android Open Source Project",
+        "Copyright (C) 2015 Google Inc.",
+        "Copyright (C) 2015 The Android Open Source Project",
+        "Copyright (C) 2016 The Android Open Source Project",
+        "Copyright (C) 2017 The Android Open Source Project",
+        "Copyright (C) 2021 The Android Open Source Project",
+        "Copyright 2017 The Android Open Source Project",
+        "Copyright 2018 The Android Open Source Project",
+        "Copyright 2021 The Android Open Source Project",
+        "Copyright 2022 The Android Open Source Project"
+      ],
+      "source_entry_count": 140,
+      "source_sha256": "c77e0f6d041b918dcfab1ab3bbe080ff5ddbb28352ca42b57fd5a049f02dd5c4"
+    },
+    {
+      "coordinate": "androidx.arch.core:core-common:2.2.0",
+      "url": "https://dl.google.com/dl/android/maven2/androidx/arch/core/core-common/2.2.0/core-common-2.2.0-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [
+        "Copyright 2018 The Android Open Source Project"
+      ],
+      "source_entry_count": 10,
+      "source_sha256": "563d430880d847890029234386ef03adb95403c34f3c9dec3a7002e2f4007ae4"
+    },
+    {
+      "coordinate": "androidx.arch.core:core-runtime:2.2.0",
+      "url": "https://dl.google.com/dl/android/maven2/androidx/arch/core/core-runtime/2.2.0/core-runtime-2.2.0-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [
+        "Copyright (C) 2017 The Android Open Source Project"
+      ],
+      "source_entry_count": 9,
+      "source_sha256": "4adaab3a8ab711634d566d2e239e199af8b5ac92c1de85540dc34c7040754e96"
+    },
+    {
+      "coordinate": "androidx.cardview:cardview:1.0.0",
+      "url": "https://dl.google.com/dl/android/maven2/androidx/cardview/cardview/1.0.0/cardview-1.0.0-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [
+        "Copyright 2018 The Android Open Source Project"
+      ],
+      "source_entry_count": 13,
+      "source_sha256": "ad7a28e7768893f8b33a8b7b275a92e33c125243ca4a9130a984c40e578e19b4"
+    },
+    {
+      "coordinate": "androidx.collection:collection:1.1.0",
+      "url": "https://dl.google.com/dl/android/maven2/androidx/collection/collection/1.1.0/collection-1.1.0-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [
+        "Copyright 2018 The Android Open Source Project"
+      ],
+      "source_entry_count": 14,
+      "source_sha256": "158ae7efee9c7394a241139ebf220751f8b812eda40269a38ef725dbe784b98d"
+    },
+    {
+      "coordinate": "androidx.concurrent:concurrent-futures:1.1.0",
+      "url": "https://dl.google.com/dl/android/maven2/androidx/concurrent/concurrent-futures/1.1.0/concurrent-futures-1.1.0-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [
+        "Copyright 2018 The Android Open Source Project"
+      ],
+      "source_entry_count": 9,
+      "source_sha256": "cc06fb6045a6c066f50e237a3c2126bc88c16d358a57b3612ba633c9f530b0a0"
+    },
+    {
+      "coordinate": "androidx.constraintlayout:constraintlayout-core:1.0.4",
+      "url": "https://dl.google.com/dl/android/maven2/androidx/constraintlayout/constraintlayout-core/1.0.4/constraintlayout-core-1.0.4-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [
+        "Copyright (C) 2015 The Android Open Source Project",
+        "Copyright (C) 2016 The Android Open Source Project",
+        "Copyright (C) 2017 The Android Open Source Project",
+        "Copyright (C) 2018 The Android Open Source Project",
+        "Copyright (C) 2019 The Android Open Source Project",
+        "Copyright (C) 2020 The Android Open Source Project",
+        "Copyright (C) 2021 The Android Open Source Project",
+        "Copyright 2019 The Android Open Source Project",
+        "Copyright 2021 The Android Open Source Project"
+      ],
+      "source_entry_count": 122,
+      "source_sha256": "909577619c082fb1ccca81a56628e91f8880e1cb9952585ecc678422f9706384"
+    },
+    {
+      "coordinate": "androidx.constraintlayout:constraintlayout:2.1.4",
+      "url": "https://dl.google.com/dl/android/maven2/androidx/constraintlayout/constraintlayout/2.1.4/constraintlayout-2.1.4-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [
+        "Copyright (C) 2015 The Android Open Source Project",
+        "Copyright (C) 2016 The Android Open Source Project",
+        "Copyright (C) 2017 The Android Open Source Project",
+        "Copyright (C) 2018 The Android Open Source Project",
+        "Copyright (C) 2019 The Android Open Source Project",
+        "Copyright (C) 2020 The Android Open Source Project",
+        "Copyright (C) 2021 The Android Open Source Project"
+      ],
+      "source_entry_count": 73,
+      "source_sha256": "849b8de0b2a45df75d39cf9e4305d98ea276574c9290abfeafe9349b12275f7e"
+    },
+    {
+      "coordinate": "androidx.coordinatorlayout:coordinatorlayout:1.2.0",
+      "url": "https://dl.google.com/dl/android/maven2/androidx/coordinatorlayout/coordinatorlayout/1.2.0/coordinatorlayout-1.2.0-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [
+        "Copyright 2018 The Android Open Source Project"
+      ],
+      "source_entry_count": 8,
+      "source_sha256": "6fc896e5225cce5a7b62705cf383c52a06e2ccf26d05268968abefd7e3ee9390"
+    },
+    {
+      "coordinate": "androidx.core:core-ktx:1.10.1",
+      "url": "https://dl.google.com/dl/android/maven2/androidx/core/core-ktx/1.10.1/core-ktx-1.10.1-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [
+        "Copyright (C) 2017 The Android Open Source Project",
+        "Copyright (C) 2018 The Android Open Source Project",
+        "Copyright (C) 20188 The Android Open Source Project",
+        "Copyright (C) 2019 The Android Open Source Project",
+        "Copyright 2018 The Android Open Source Project",
+        "Copyright 2022 The Android Open Source Project"
+      ],
+      "source_entry_count": 76,
+      "source_sha256": "a2ca49a903b3600ddb4ef6993be822d1c5a7e5a9a39641e2b30f89e2792059c6"
+    },
+    {
+      "coordinate": "androidx.core:core:1.10.1",
+      "url": "https://dl.google.com/dl/android/maven2/androidx/core/core/1.10.1/core-1.10.1-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [
+        "Copyright (C) 2009 The Android Open Source Project",
+        "Copyright (C) 2011 The Android Open Source Project",
+        "Copyright (C) 2012 The Android Open Source Project",
+        "Copyright (C) 2013 The Android Open Source Project",
+        "Copyright (C) 2014 The Android Open Source Project",
+        "Copyright (C) 2015 The Android Open Source Project",
+        "Copyright (C) 2016 The Android Open Source Project",
+        "Copyright (C) 2017 The Android Open Source Project",
+        "Copyright (C) 2018 The Android Open Source Project",
+        "Copyright (C) 2019 The Android Open Source Project",
+        "Copyright (C) 2021 The Android Open Source Project",
+        "Copyright (C) 2022 The Android Open Source Project",
+        "Copyright 2015 The Android Open Source Project",
+        "Copyright 2017 The Android Open Source Project",
+        "Copyright 2018 The Android Open Source Project",
+        "Copyright 2019 The Android Open Source Project",
+        "Copyright 2020 The Android Open Source Project",
+        "Copyright 2021 The Android Open Source Project",
+        "Copyright 2022 The Android Open Source Project"
+      ],
+      "source_entry_count": 311,
+      "source_sha256": "0e1e079c9fad49e2f6262e334d99c1a4107de254c0d434c3338f9e2279686cae"
+    },
+    {
+      "coordinate": "androidx.cursoradapter:cursoradapter:1.0.0",
+      "url": "https://dl.google.com/dl/android/maven2/androidx/cursoradapter/cursoradapter/1.0.0/cursoradapter-1.0.0-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [
+        "Copyright 2018 The Android Open Source Project"
+      ],
+      "source_entry_count": 9,
+      "source_sha256": "99b72a3aec8c9edfd9de20f5913ce4c413bca2f0cf9877b504e26aa03ef50323"
+    },
+    {
+      "coordinate": "androidx.customview:customview-poolingcontainer:1.0.0",
+      "url": "https://dl.google.com/dl/android/maven2/androidx/customview/customview-poolingcontainer/1.0.0/customview-poolingcontainer-1.0.0-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [
+        "Copyright 2021 The Android Open Source Project"
+      ],
+      "source_entry_count": 6,
+      "source_sha256": "0715571baa86e8f7683fcc1d59fe2881c5e8603af9ff212c82423ae098d34c62"
+    },
+    {
+      "coordinate": "androidx.customview:customview:1.1.0",
+      "url": "https://dl.google.com/dl/android/maven2/androidx/customview/customview/1.1.0/customview-1.1.0-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [
+        "Copyright 2018 The Android Open Source Project",
+        "Copyright 2019 The Android Open Source Project"
+      ],
+      "source_entry_count": 11,
+      "source_sha256": "0f119c77c7613881901cbcd149e718409480c08c39661737750a35f5d6b5dfd2"
+    },
+    {
+      "coordinate": "androidx.databinding:viewbinding:9.1.1",
+      "url": "https://dl.google.com/dl/android/maven2/androidx/databinding/viewbinding/9.1.1/viewbinding-9.1.1-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [
+        "Copyright (C) 2019 The Android Open Source Project",
+        "Copyright (C) 2021 The Android Open Source Project"
+      ],
+      "source_entry_count": 6,
+      "source_sha256": "64c4a9089b0320b0a8e6388873f13dbaa5166e6bced3ff733632e8d4d67b8766"
+    },
+    {
+      "coordinate": "androidx.documentfile:documentfile:1.0.0",
+      "url": "https://dl.google.com/dl/android/maven2/androidx/documentfile/documentfile/1.0.0/documentfile-1.0.0-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [
+        "Copyright 2018 The Android Open Source Project"
+      ],
+      "source_entry_count": 10,
+      "source_sha256": "79c2424477565d0500b47c8288fb8e6dd9c8306984e8dbd38d576f013873b410"
+    },
+    {
+      "coordinate": "androidx.drawerlayout:drawerlayout:1.1.1",
+      "url": "https://dl.google.com/dl/android/maven2/androidx/drawerlayout/drawerlayout/1.1.1/drawerlayout-1.1.1-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [
+        "Copyright 2018 The Android Open Source Project"
+      ],
+      "source_entry_count": 6,
+      "source_sha256": "bec7ce941920860747b3368b0a6d58c14b91c164dfbddd1de866e7cfab4f27fd"
+    },
+    {
+      "coordinate": "androidx.dynamicanimation:dynamicanimation:1.0.0",
+      "url": "https://dl.google.com/dl/android/maven2/androidx/dynamicanimation/dynamicanimation/1.0.0/dynamicanimation-1.0.0-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [
+        "Copyright (C) 2017 The Android Open Source Project"
+      ],
+      "source_entry_count": 13,
+      "source_sha256": "7ddbf0b830e295b8013a41c2c6771416118bcc8d61328a881daae657c1429196"
+    },
+    {
+      "coordinate": "androidx.emoji2:emoji2-views-helper:1.2.0",
+      "url": "https://dl.google.com/dl/android/maven2/androidx/emoji2/emoji2-views-helper/1.2.0/emoji2-views-helper-1.2.0-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [
+        "Copyright 2021 The Android Open Source Project"
+      ],
+      "source_entry_count": 13,
+      "source_sha256": "ede24c021b055ab0bc287ce3ab784ab1fff3f336dae1ee9adae8b0d849e7b997"
+    },
+    {
+      "coordinate": "androidx.emoji2:emoji2:1.2.0",
+      "url": "https://dl.google.com/dl/android/maven2/androidx/emoji2/emoji2/1.2.0/emoji2-1.2.0-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [
+        "Copyright 2021 The Android Open Source Project",
+        "Copyright 2022 The Android Open Source Project"
+      ],
+      "source_entry_count": 20,
+      "source_sha256": "0fb791b7cb4a3c68a31b17b06a4c074e6bd2f3af6abca5051582646d649bdef1"
+    },
+    {
+      "coordinate": "androidx.fragment:fragment:1.3.6",
+      "url": "https://dl.google.com/dl/android/maven2/androidx/fragment/fragment/1.3.6/fragment-1.3.6-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [
+        "Copyright 2018 The Android Open Source Project",
+        "Copyright 2019 The Android Open Source Project",
+        "Copyright 2020 The Android Open Source Project"
+      ],
+      "source_entry_count": 44,
+      "source_sha256": "8e1a9fca9fb5c84576faaf290950f966c1a15cd6e58475882d65a4bbdcdd2d85"
+    },
+    {
+      "coordinate": "androidx.interpolator:interpolator:1.0.0",
+      "url": "https://dl.google.com/dl/android/maven2/androidx/interpolator/interpolator/1.0.0/interpolator-1.0.0-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [
+        "Copyright 2018 The Android Open Source Project"
+      ],
+      "source_entry_count": 10,
+      "source_sha256": "fa13ada71fe7bd9461f622f418e7c16a18e85da7708fb505c75229a9b8830345"
+    },
+    {
+      "coordinate": "androidx.legacy:legacy-support-core-utils:1.0.0",
+      "url": "https://dl.google.com/dl/android/maven2/androidx/legacy/legacy-support-core-utils/1.0.0/legacy-support-core-utils-1.0.0-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [
+        "Copyright 2018 The Android Open Source Project"
+      ],
+      "source_entry_count": 6,
+      "source_sha256": "dff5a95a7a706957b16edbf5b36c619fc869742bdf18845520d0cf71748c8070"
+    },
+    {
+      "coordinate": "androidx.lifecycle:lifecycle-common:2.6.2",
+      "url": "https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-common/2.6.2/lifecycle-common-2.6.2-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [
+        "Copyright (C) 2017 The Android Open Source Project",
+        "Copyright 2018 The Android Open Source Project",
+        "Copyright 2019 The Android Open Source Project"
+      ],
+      "source_entry_count": 22,
+      "source_sha256": "9b194a75aa6724bdac277be839eddd5d49192d64389d5ac02d1f6bb6c334124e"
+    },
+    {
+      "coordinate": "androidx.lifecycle:lifecycle-livedata-core:2.6.2",
+      "url": "https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-livedata-core/2.6.2/lifecycle-livedata-core-2.6.2-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [
+        "Copyright (C) 2017 The Android Open Source Project"
+      ],
+      "source_entry_count": 7,
+      "source_sha256": "cacbe1dc9c099df7fd37069266986eeb8c4447c3e08c4a31762c7466a0082568"
+    },
+    {
+      "coordinate": "androidx.lifecycle:lifecycle-livedata:2.6.2",
+      "url": "https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-livedata/2.6.2/lifecycle-livedata-2.6.2-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [
+        "Copyright (C) 2017 The Android Open Source Project"
+      ],
+      "source_entry_count": 7,
+      "source_sha256": "5e55ddad2a4a2cf7c33650059f11274a579db92dd88a04800912d70576227f61"
+    },
+    {
+      "coordinate": "androidx.lifecycle:lifecycle-process:2.6.2",
+      "url": "https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-process/2.6.2/lifecycle-process-2.6.2-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [
+        "Copyright (C) 2017 The Android Open Source Project",
+        "Copyright 2021 The Android Open Source Project"
+      ],
+      "source_entry_count": 8,
+      "source_sha256": "f6f6c2465bf5219798d64ed255a1768cf26547d56755c0cceb32e752a231f689"
+    },
+    {
+      "coordinate": "androidx.lifecycle:lifecycle-runtime-ktx:2.6.2",
+      "url": "https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-runtime-ktx/2.6.2/lifecycle-runtime-ktx-2.6.2-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [
+        "Copyright 2019 The Android Open Source Project",
+        "Copyright 2020 The Android Open Source Project",
+        "Copyright 2021 The Android Open Source Project"
+      ],
+      "source_entry_count": 8,
+      "source_sha256": "8503ed85cf65d200b9079e660a2b2c645cb322d74558034b08d364f0e349662a"
+    },
+    {
+      "coordinate": "androidx.lifecycle:lifecycle-runtime:2.6.2",
+      "url": "https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-runtime/2.6.2/lifecycle-runtime-2.6.2-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [
+        "Copyright (C) 2017 The Android Open Source Project",
+        "Copyright 2019 The Android Open Source Project"
+      ],
+      "source_entry_count": 8,
+      "source_sha256": "07129c61c68a7c4333aeabe1712827c33677f973db29bc11b99044463899b13d"
+    },
+    {
+      "coordinate": "androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2",
+      "url": "https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-viewmodel-ktx/2.6.2/lifecycle-viewmodel-ktx-2.6.2-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [
+        "Copyright 2018 The Android Open Source Project"
+      ],
+      "source_entry_count": 5,
+      "source_sha256": "dc9b84fecf2d5c7eade2d86e75a5c407c81209698e001fe822a5ed1896571d67"
+    },
+    {
+      "coordinate": "androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2",
+      "url": "https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-viewmodel-savedstate/2.6.2/lifecycle-viewmodel-savedstate-2.6.2-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [
+        "Copyright 2018 The Android Open Source Project",
+        "Copyright 2019 The Android Open Source Project",
+        "Copyright 2021 The Android Open Source Project"
+      ],
+      "source_entry_count": 10,
+      "source_sha256": "4bedc7c786cde5b49adff6d8bcd2357c09b897f20dd6e4f1b79e5af55f32db9e"
+    },
+    {
+      "coordinate": "androidx.lifecycle:lifecycle-viewmodel:2.6.2",
+      "url": "https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-viewmodel/2.6.2/lifecycle-viewmodel-2.6.2-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [
+        "Copyright (C) 2017 The Android Open Source Project",
+        "Copyright 2019 The Android Open Source Project",
+        "Copyright 2020 The Android Open Source Project",
+        "Copyright 2021 The Android Open Source Project",
+        "Copyright 2022 The Android Open Source Project",
+        "Copyright 2023 The Android Open Source Project"
+      ],
+      "source_entry_count": 16,
+      "source_sha256": "4eed85c3e86326da8b6949fd3964d2380aa5c56730de402e3c6f1c6d747596e0"
+    },
+    {
+      "coordinate": "androidx.loader:loader:1.0.0",
+      "url": "https://dl.google.com/dl/android/maven2/androidx/loader/loader/1.0.0/loader-1.0.0-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [
+        "Copyright 2018 The Android Open Source Project"
+      ],
+      "source_entry_count": 12,
+      "source_sha256": "efcbafaac8fc06bd5b162b57ac1e146d11919b79dea2202339470c931cecdc67"
+    },
+    {
+      "coordinate": "androidx.localbroadcastmanager:localbroadcastmanager:1.0.0",
+      "url": "https://dl.google.com/dl/android/maven2/androidx/localbroadcastmanager/localbroadcastmanager/1.0.0/localbroadcastmanager-1.0.0-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [
+        "Copyright 2018 The Android Open Source Project"
+      ],
+      "source_entry_count": 6,
+      "source_sha256": "952b8567a76d6484aa96f9712b9dc90f21b83a73e2496daf243e2e1adfb65dd4"
+    },
+    {
+      "coordinate": "androidx.print:print:1.0.0",
+      "url": "https://dl.google.com/dl/android/maven2/androidx/print/print/1.0.0/print-1.0.0-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [
+        "Copyright 2018 The Android Open Source Project"
+      ],
+      "source_entry_count": 5,
+      "source_sha256": "659b6e2047484dbae409b9b49c19f9ebd9540bb7ef3610438e2c2b15064fc217"
+    },
+    {
+      "coordinate": "androidx.profileinstaller:profileinstaller:1.3.0",
+      "url": "https://dl.google.com/dl/android/maven2/androidx/profileinstaller/profileinstaller/1.3.0/profileinstaller-1.3.0-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [
+        "Copyright (C) 2021 The Android Open Source Project",
+        "Copyright 2021 The Android Open Source Project",
+        "Copyright 2022 The Android Open Source Project"
+      ],
+      "source_entry_count": 17,
+      "source_sha256": "1d53d3dd1665143812f7fab691ca25f2f65d6c4daf7b6e607945b8f601d6244c"
+    },
+    {
+      "coordinate": "androidx.recyclerview:recyclerview:1.3.2",
+      "url": "https://dl.google.com/dl/android/maven2/androidx/recyclerview/recyclerview/1.3.2/recyclerview-1.3.2-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [
+        "Copyright 2018 The Android Open Source Project",
+        "Copyright 2020 The Android Open Source Project",
+        "Copyright 2022 The Android Open Source Project"
+      ],
+      "source_entry_count": 49,
+      "source_sha256": "62c1fc5b9158b6500d604fb345d49c9f6698832260140ec2dde553b5ab20d34e"
+    },
+    {
+      "coordinate": "androidx.resourceinspection:resourceinspection-annotation:1.0.1",
+      "url": "https://dl.google.com/dl/android/maven2/androidx/resourceinspection/resourceinspection-annotation/1.0.1/resourceinspection-annotation-1.0.1-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [
+        "Copyright 2021 The Android Open Source Project"
+      ],
+      "source_entry_count": 8,
+      "source_sha256": "cdca7861ae17115f8d74f9f197d1a4f8b0217ca035a3990da2e2c1ca1fa7f822"
+    },
+    {
+      "coordinate": "androidx.savedstate:savedstate-ktx:1.2.1",
+      "url": "https://dl.google.com/dl/android/maven2/androidx/savedstate/savedstate-ktx/1.2.1/savedstate-ktx-1.2.1-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [
+        "Copyright 2020 The Android Open Source Project"
+      ],
+      "source_entry_count": 5,
+      "source_sha256": "45f49fe9075235c62d409f2d11d795b3c7308bccb475ed43ed8312638119cc27"
+    },
+    {
+      "coordinate": "androidx.savedstate:savedstate:1.2.1",
+      "url": "https://dl.google.com/dl/android/maven2/androidx/savedstate/savedstate/1.2.1/savedstate-1.2.1-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [
+        "Copyright 2018 The Android Open Source Project",
+        "Copyright 2019 The Android Open Source Project",
+        "Copyright 2020 The Android Open Source Project"
+      ],
+      "source_entry_count": 9,
+      "source_sha256": "fd201fb9ea2d3e66262cb09bf1e33cbbe41050fcfcb96c9ce197f1780b614a73"
+    },
+    {
+      "coordinate": "androidx.startup:startup-runtime:1.1.1",
+      "url": "https://dl.google.com/dl/android/maven2/androidx/startup/startup-runtime/1.1.1/startup-runtime-1.1.1-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [
+        "Copyright 2020 The Android Open Source Project"
+      ],
+      "source_entry_count": 9,
+      "source_sha256": "53e03bc065b26b2227b5fdca6776cbfa0d1a69afb8f3c1e96c1743fa54320196"
+    },
+    {
+      "coordinate": "androidx.tracing:tracing:1.0.0",
+      "url": "https://dl.google.com/dl/android/maven2/androidx/tracing/tracing/1.0.0/tracing-1.0.0-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [
+        "Copyright 2020 The Android Open Source Project"
+      ],
+      "source_entry_count": 7,
+      "source_sha256": "a593c115d145df9cb9ae2226960da1d53ff8590eff1c285e7c9de2b6727d3c21"
+    },
+    {
+      "coordinate": "androidx.transition:transition:1.2.0",
+      "url": "https://dl.google.com/dl/android/maven2/androidx/transition/transition/1.2.0/transition-1.2.0-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [
+        "Copyright (C) 2016 The Android Open Source Project",
+        "Copyright (C) 2017 The Android Open Source Project",
+        "Copyright 2019 The Android Open Source Project"
+      ],
+      "source_entry_count": 66,
+      "source_sha256": "86febeb3fbb96b93a355ada8a97e5c17355cf709e1bab178d5c4bc73c67c9887"
+    },
+    {
+      "coordinate": "androidx.vectordrawable:vectordrawable-animated:1.1.0",
+      "url": "https://dl.google.com/dl/android/maven2/androidx/vectordrawable/vectordrawable-animated/1.1.0/vectordrawable-animated-1.1.0-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [
+        "Copyright (C) 2015 The Android Open Source Project",
+        "Copyright (C) 2017 The Android Open Source Project"
+      ],
+      "source_entry_count": 12,
+      "source_sha256": "a3880c595965c55fd1bdee0554b99c66e9c28d3311b7ce6242189fc1f554fcf1"
+    },
+    {
+      "coordinate": "androidx.vectordrawable:vectordrawable:1.1.0",
+      "url": "https://dl.google.com/dl/android/maven2/androidx/vectordrawable/vectordrawable/1.1.0/vectordrawable-1.1.0-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [
+        "Copyright (C) 2015 The Android Open Source Project"
+      ],
+      "source_entry_count": 9,
+      "source_sha256": "a1ae4fccc4ab76a734c10f79adf39262517658a79084bad467c4c6f41c478187"
+    },
+    {
+      "coordinate": "androidx.versionedparcelable:versionedparcelable:1.1.1",
+      "url": "https://dl.google.com/dl/android/maven2/androidx/versionedparcelable/versionedparcelable/1.1.1/versionedparcelable-1.1.1-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [
+        "Copyright 2018 The Android Open Source Project"
+      ],
+      "source_entry_count": 14,
+      "source_sha256": "135016af471acf4cd9583d36ceb779710c6b46812ccaaef7c526d5d60eae6b0b"
+    },
+    {
+      "coordinate": "androidx.viewpager2:viewpager2:1.1.0-beta02",
+      "url": "https://dl.google.com/dl/android/maven2/androidx/viewpager2/viewpager2/1.1.0-beta02/viewpager2-1.1.0-beta02-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [
+        "Copyright 2017 The Android Open Source Project",
+        "Copyright 2018 The Android Open Source Project",
+        "Copyright 2019 The Android Open Source Project",
+        "Copyright 2021 The Android Open Source Project",
+        "Copyright 2022 The Android Open Source Project"
+      ],
+      "source_entry_count": 19,
+      "source_sha256": "eabebfc680fce0dd5ce6b169835636287178fe9dc70f0cc82ef6cd325512bb73"
+    },
+    {
+      "coordinate": "androidx.viewpager:viewpager:1.0.0",
+      "url": "https://dl.google.com/dl/android/maven2/androidx/viewpager/viewpager/1.0.0/viewpager-1.0.0-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [
+        "Copyright 2018 The Android Open Source Project"
+      ],
+      "source_entry_count": 9,
+      "source_sha256": "d4f9a044ab8c23392b12a3f2930d5fd6b5982421a746f2f2a812e9619431fbfd"
+    },
+    {
+      "coordinate": "com.atlassian.commonmark:commonmark:0.13.0",
+      "url": "https://repo.maven.apache.org/maven2/com/atlassian/commonmark/commonmark/0.13.0/commonmark-0.13.0-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [],
+      "source_entry_count": 119,
+      "source_sha256": "f82d692fbc09e99567f822442d3f7a490b9ac10263365a03fa91ba659f65e694"
+    },
+    {
+      "coordinate": "com.google.android.material:material:1.10.0",
+      "url": "https://dl.google.com/dl/android/maven2/com/google/android/material/material/1.10.0/material-1.10.0-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [
+        "Copyright (C) 2014 The Android Open Source Project",
+        "Copyright (C) 2015 The Android Open Source Project",
+        "Copyright (C) 2016 The Android Open Source Project",
+        "Copyright (C) 2017 The Android Open Source Project",
+        "Copyright (C) 2018 The Android Open Source Project",
+        "Copyright (C) 2019 The Android Open Source Project",
+        "Copyright (C) 2020 The Android Open Source Project",
+        "Copyright (C) 2021 The Android Open Source Project",
+        "Copyright (C) 2022 The Android Open Source Project",
+        "Copyright (C) 2023 The Android Open Source Project",
+        "Copyright 2017 The Android Open Source Project",
+        "Copyright 2018 The Android Open Source Project",
+        "Copyright 2019 The Android Open Source Project",
+        "Copyright 2020 The Android Open Source Project",
+        "Copyright 2022 The Android Open Source Project",
+        "Copyright 2023 The Android Open Source Project"
+      ],
+      "source_entry_count": 478,
+      "source_sha256": "267db62c8ff76fb30750f1f5e2bd4aa0ac669afc9783d875a648162a108f9c6e"
+    },
+    {
+      "coordinate": "com.google.errorprone:error_prone_annotations:2.15.0",
+      "url": "https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.15.0/error_prone_annotations-2.15.0-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [
+        "Copyright 2014 The Error Prone Authors.",
+        "Copyright 2015 The Error Prone Authors.",
+        "Copyright 2016 The Error Prone Authors.",
+        "Copyright 2017 The Error Prone Authors.",
+        "Copyright 2021 The Error Prone Authors."
+      ],
+      "source_entry_count": 38,
+      "source_sha256": "c1b58a188fb4eca9ccefbaff21209eb07df87751384e694b908a3df0288bef97"
+    },
+    {
+      "coordinate": "com.google.guava:listenablefuture:1.0",
+      "url": "https://repo.maven.apache.org/maven2/com/google/guava/listenablefuture/1.0/listenablefuture-1.0-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [
+        "Copyright (C) 2007 The Guava Authors"
+      ],
+      "source_entry_count": 8,
+      "source_sha256": "3d1bd8d4a39b293612a40e547ec51d9ce34fa638d7adeae83871cdbe2923b161"
+    },
+    {
+      "coordinate": "io.noties.markwon:core:4.6.2",
+      "url": "https://repo.maven.apache.org/maven2/io/noties/markwon/core/4.6.2/core-4.6.2-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [],
+      "source_entry_count": 91,
+      "source_sha256": "e4a2f6c0ea67ea6a51b681a2ae55ebb7c2e94c3eb0836738fe987d7e9fce13cc"
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.8.22",
+      "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.8.22/kotlin-stdlib-jdk7-1.8.22-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [],
+      "source_entry_count": 3,
+      "source_sha256": "ea10d3e5e6e695d8a5283cbf116321acae6ba42d0bdd3eda50f7c34a26fa25cb"
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.8.22",
+      "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.8.22/kotlin-stdlib-jdk8-1.8.22-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [],
+      "source_entry_count": 3,
+      "source_sha256": "40e9a80f6b953d12389623760d438e69914098d0c4d7053f70f90533ec041259"
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin:kotlin-stdlib:2.2.10",
+      "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/2.2.10/kotlin-stdlib-2.2.10-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [
+        "Copyright (c) 2007-present, Stephen Colebourne & Michael Nascimento Santos",
+        "Copyright 2007 Google Inc.",
+        "Copyright 2010-2015 JetBrains s.r.o.",
+        "Copyright 2010-2016 JetBrains s.r.o.",
+        "Copyright 2010-2017 JetBrains s.r.o.",
+        "Copyright 2010-2018 JetBrains s.r.o. Use of this source code is governed by the Apache 2.0 license",
+        "Copyright 2010-2018 JetBrains s.r.o. and Kotlin Programming Language contributors.",
+        "Copyright 2010-2019 JetBrains s.r.o. and Kotlin Programming Language contributors.",
+        "Copyright 2010-2020 JetBrains s.r.o. and Kotlin Programming Language contributors.",
+        "Copyright 2010-2021 JetBrains s.r.o. and Kotlin Programming Language contributors.",
+        "Copyright 2010-2022 JetBrains s.r.o. and Kotlin Programming Language contributors.",
+        "Copyright 2010-2023 JetBrains s.r.o. and Kotlin Programming Language contributors.",
+        "Copyright 2010-2024 JetBrains s.r.o. and Kotlin Programming Language contributors.",
+        "Copyright 2010-2025 JetBrains s.r.o. and Kotlin Programming Language contributors.",
+        "Copyright 2011 The Guava Authors"
+      ],
+      "source_entry_count": 486,
+      "source_sha256": "2983f21e626325f256bc4443c7fe45a83912bba077be119142f68210c0548173"
+    },
+    {
+      "coordinate": "org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.4",
+      "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-android/1.6.4/kotlinx-coroutines-android-1.6.4-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [
+        "Copyright 2016-2021 JetBrains s.r.o. Use of this source code is governed by the Apache 2.0 license."
+      ],
+      "source_entry_count": 16,
+      "source_sha256": "cc2c16ed89092c1ccb41db572d9da8e3b2f730fce4ba66687d47f6dc5ed7ec99"
+    },
+    {
+      "coordinate": "org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.6.4",
+      "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.6.4/kotlinx-coroutines-core-jvm-1.6.4-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [
+        "Copyright 2016-2020 JetBrains s.r.o. Use of this source code is governed by the Apache 2.0 license.",
+        "Copyright 2016-2021 JetBrains s.r.o. Use of this source code is governed by the Apache 2.0 license.",
+        "Copyright 2016-2022 JetBrains s.r.o. Use of this source code is governed by the Apache 2.0 license."
+      ],
+      "source_entry_count": 187,
+      "source_sha256": "aa1335ddb56712a4acca7bb0a2dc0870818b508b6054feb3be253075b6a9ed03"
+    },
+    {
+      "coordinate": "org.jetbrains:annotations:13.0",
+      "url": "https://repo.maven.apache.org/maven2/org/jetbrains/annotations/13.0/annotations-13.0-sources.jar",
+      "status": "ok",
+      "entries": {},
+      "copyrights": [
+        "Copyright 2000-2009 JetBrains s.r.o.",
+        "Copyright 2000-2012 JetBrains s.r.o.",
+        "Copyright 2000-2013 JetBrains s.r.o.",
+        "Copyright 2006 Sascha Weinreuter"
+      ],
+      "source_entry_count": 24,
+      "source_sha256": "42a5e144b8e81d50d6913d1007b695e62e614705268d8cf9f13dbdc478c2c68e"
+    }
+  ],
+  "upstream_trees": [
+    {
+      "repo": "JetBrains/kotlin",
+      "ref": "v2.2.10",
+      "url": "https://api.github.com/repos/JetBrains/kotlin/git/trees/v2.2.10?recursive=1",
+      "commit_tree": "c448af19ded1b1a4e96e9af6412cd9acb100ce1a",
+      "truncated": true,
+      "paths": [
+        ".idea/scopes/Apply_copyright.xml",
+        "compiler/testData/codegen/box/jvmField/fileOrderWithCopying.kt"
+      ]
+    },
+    {
+      "repo": "JetBrains/kotlin",
+      "ref": "v1.8.22",
+      "url": "https://api.github.com/repos/JetBrains/kotlin/git/trees/v1.8.22?recursive=1",
+      "commit_tree": "fe0156151da01b3cecee587bf43e845766bdbfdf",
+      "truncated": true,
+      "paths": [
+        ".idea/scopes/Apply_copyright.xml",
+        "compiler/testData/codegen/box/jvmField/fileOrderWithCopying.kt"
+      ]
+    },
+    {
+      "repo": "Kotlin/kotlinx.coroutines",
+      "ref": "1.6.4",
+      "url": "https://api.github.com/repos/Kotlin/kotlinx.coroutines/git/trees/1.6.4?recursive=1",
+      "commit_tree": "81e17dd37003a7105e542eb725f51ee0dc353354",
+      "truncated": false,
+      "paths": [
+        "LICENSE.txt",
+        "license/NOTICE.txt",
+        "license/third_party/minima_LICENSE.txt"
+      ]
+    },
+    {
+      "repo": "noties/Markwon",
+      "ref": "v4.6.2",
+      "url": "https://api.github.com/repos/noties/Markwon/git/trees/v4.6.2?recursive=1",
+      "commit_tree": "6f8b8e71f57ffd9b25cc02f99a301b4f06550f77",
+      "truncated": false,
+      "paths": [
+        "LICENSE"
+      ]
+    },
+    {
+      "repo": "commonmark/commonmark-java",
+      "ref": "commonmark-parent-0.13.0",
+      "url": "https://api.github.com/repos/commonmark/commonmark-java/git/trees/commonmark-parent-0.13.0?recursive=1",
+      "commit_tree": "f7716897f9e37f03d023cf713e92a5b1ced59bc1",
+      "truncated": false,
+      "paths": [
+        "LICENSE.txt"
+      ]
+    },
+    {
+      "repo": "material-components/material-components-android",
+      "ref": "1.10.0",
+      "url": "https://api.github.com/repos/material-components/material-components-android/git/trees/1.10.0?recursive=1",
+      "commit_tree": "5a45d851e7e434b77d62403e816bb5c4b15d498c",
+      "truncated": false,
+      "paths": [
+        "LICENSE"
+      ]
+    },
+    {
+      "repo": "google/error-prone",
+      "ref": "v2.15.0",
+      "url": "https://api.github.com/repos/google/error-prone/git/trees/v2.15.0?recursive=1",
+      "commit_tree": "12aca18e3b9706a77bfa5ee9ffa0e906a981bb06",
+      "truncated": false,
+      "paths": [
+        "COPYING"
+      ]
+    },
+    {
+      "repo": "google/guava",
+      "ref": "v26.0-android",
+      "url": "https://api.github.com/repos/google/guava/git/trees/v26.0-android?recursive=1",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "repo": "google/guava",
+      "ref": "v26.0",
+      "url": "https://api.github.com/repos/google/guava/git/trees/v26.0?recursive=1",
+      "commit_tree": "bbf9295088d668c06e573cea03f01375985c1814",
+      "truncated": false,
+      "paths": [
+        "COPYING"
+      ],
+      "scope": "Corroboration only: listenablefuture 1.0 inherits 26.0-android parent; exact source JAR inspected."
+    }
+  ],
+  "versioned_license_readmes": [
+    {
+      "version": "2.2.10",
+      "url": "https://raw.githubusercontent.com/JetBrains/kotlin/v2.2.10/license/README.md",
+      "scope": "JVM/common stdlib portions; compiler/plugin and JS/Wasm-only components excluded."
+    },
+    {
+      "version": "1.8.22",
+      "url": "https://raw.githubusercontent.com/JetBrains/kotlin/v1.8.22/license/README.md",
+      "scope": "jdk7/jdk8 runtime wrapper modules only; published source JARs contain module-info.java."
+    }
+  ],
+  "added_texts": [
+    {
+      "file": "kotlinx-coroutines-1.6.4-NOTICE.txt",
+      "source_url": "https://raw.githubusercontent.com/Kotlin/kotlinx.coroutines/1.6.4/license/NOTICE.txt",
+      "sha256": "e2d729c0548af3d0de8deddde6a525d10d2026961727b23795346484ef46a137"
+    },
+    {
+      "file": "Kotlin-2.2.10-ThreeTenBP-BSD-3-Clause.txt",
+      "source_url": "https://raw.githubusercontent.com/JetBrains/kotlin/v2.2.10/license/third_party/threetenbp_license.txt",
+      "sha256": "d1bc53b493a3ab387b42717ed5c4b1976a5048996f81154278100bff86d39331"
+    },
+    {
+      "file": "Kotlin-2.2.10-Boost-1.0.txt",
+      "source_url": "https://raw.githubusercontent.com/JetBrains/kotlin/v2.2.10/license/third_party/boost_LICENSE.txt",
+      "sha256": "8d8291caf1cee26d23acf3eb67c9f9a2d58f1c681b16a4fbe8cbfb9e3c0b5a9b"
+    },
+    {
+      "file": "Kotlin-2.2.10-upstream-NOTICE.txt",
+      "source_url": "https://raw.githubusercontent.com/JetBrains/kotlin/v2.2.10/license/NOTICE.txt",
+      "sha256": "0b09a83d3ef7795c7dec65e815866597c066c53898f2852a76599b8f5552941a"
+    },
+    {
+      "file": "Kotlin-1.8.22-upstream-NOTICE.txt",
+      "source_url": "https://raw.githubusercontent.com/JetBrains/kotlin/v1.8.22/license/NOTICE.txt",
+      "sha256": "ea7099352103ade6a6918bc7efb00f8bcd43db0e76b2da2e83237c0bc0ff1b19"
+    }
+  ],
+  "findings": [
+    "coroutines 1.6.4 source-only Apache section 4(d) NOTICE supplied and now retained.",
+    "Kotlin 2.2.10 commonMain/kotlin/time/Instant.kt and upstream license README establish ThreeTenBP-derived BSD-3-Clause code; exact upstream text now retained.",
+    "Kotlin 2.2.10 jvmMain/kotlin/util/MathJVM.kt and upstream license README establish Boost-derived code; Boost text included although machine-executable object copies are exempt.",
+    "Kotlin compiler-distribution NOTICE texts retained conservatively with original compiler wording; no compiler claimed bundled.",
+    "CommonMark exact matching upstream license equals pre-existing runtime embedded BSD text.",
+    "Markwon, Material, Error Prone complete versioned repository trees show no separate NOTICE file.",
+    "Guava v26.0 tree shows COPYING only; unavailable v26.0-android tag is not treated as a successful check.",
+    "JetBrains annotations 13.0 published source includes Sascha Weinreuter Apache-2.0 attributions; retained in source supplement.",
+    "Coroutines repository contains a minima MIT text; no runtime source attribution or resolved dependency establishes minima incorporation. Not assigned to JVM/Android runtime."
+  ],
+  "limitations": [
+    "Official source JARs may omit repository-root material, resources and generated inputs; AndroidX and JetBrains annotations historical full repository audit not performed.",
+    "AndroidX current root listing https://android.googlesource.com/platform/frameworks/support/+/refs/heads/androidx-main/?format=JSON shows LICENSE.txt and license-baseline.txt, no NOTICE; supplementary non-version-matched evidence only.",
+    "Kotlin recursive tree APIs truncated; direct versioned license/README.md and license/NOTICE.txt fetched separately.",
+    "No symbol-level dead-code analysis; supplemental stdlib licenses retained for the resolved binary regardless of whether the app invokes those APIs.",
+    "Unresolved WAV provenance/permission remains independent; this review does not change binary voices.",
+    "Review must be repeated for dependency/native inventory changes."
+  ]
+}

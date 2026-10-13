@@ -1,0 +1,335 @@
+{
+  "apk": "minicpm-v47-android-debug.apk",
+  "bytes": 23738393,
+  "sha256": "824b73e62a2f5b994a092444f33b4c073eeab69545d80ea24859eb56a363e445",
+  "metadata": {
+    "application-id": "com.tianchi.minicpmv.v47debug",
+    "version-name": "2.5-v47-1b-debug",
+    "version-code": "17",
+    "min-sdk": "24",
+    "target-sdk": "36",
+    "debuggable": "true"
+  },
+  "launcher": "com.example.minicpm_v_demo.MainActivity",
+  "signature": "Verifies\nVerified using v1 scheme (JAR signing): false\nVerified using v2 scheme (APK Signature Scheme v2): true\nVerified using v3 scheme (APK Signature Scheme v3): false\nVerified using v3.1 scheme (APK Signature Scheme v3.1): false\nVerified using v4 scheme (APK Signature Scheme v4): false\nVerified for SourceStamp: false\nNumber of signers: 1\n",
+  "zipalign_16k": "PASS",
+  "libraries": [
+    {
+      "path": "lib/arm64-v8a/libggml-base.so",
+      "bytes": 1156072,
+      "load_alignments": [
+        16384,
+        16384,
+        16384
+      ],
+      "needed": [
+        "libm.so",
+        "libdl.so",
+        "libomp.so",
+        "libc.so"
+      ]
+    },
+    {
+      "path": "lib/arm64-v8a/libggml-cpu-v86.so",
+      "bytes": 1530184,
+      "load_alignments": [
+        16384,
+        16384,
+        16384
+      ],
+      "needed": [
+        "libggml-base.so",
+        "libomp.so",
+        "libm.so",
+        "libdl.so",
+        "libc.so"
+      ]
+    },
+    {
+      "path": "lib/arm64-v8a/libggml-cpu.so",
+      "bytes": 1451912,
+      "load_alignments": [
+        16384,
+        16384,
+        16384
+      ],
+      "needed": [
+        "libggml-base.so",
+        "libomp.so",
+        "libm.so",
+        "libdl.so",
+        "libc.so"
+      ]
+    },
+    {
+      "path": "lib/arm64-v8a/libggml.so",
+      "bytes": 124976,
+      "load_alignments": [
+        16384,
+        16384,
+        16384
+      ],
+      "needed": [
+        "libggml-cpu.so",
+        "libggml-base.so",
+        "libm.so",
+        "libdl.so",
+        "libc.so"
+      ]
+    },
+    {
+      "path": "lib/arm64-v8a/libkleidiai.so",
+      "bytes": 569096,
+      "load_alignments": [
+        16384,
+        16384
+      ],
+      "needed": [
+        "libm.so",
+        "libdl.so",
+        "libc.so"
+      ]
+    },
+    {
+      "path": "lib/arm64-v8a/libllama-batched-bench-impl.so",
+      "bytes": 50080,
+      "load_alignments": [
+        16384,
+        16384,
+        16384
+      ],
+      "needed": [
+        "libllama-common.so",
+        "libllama.so",
+        "libggml.so",
+        "libggml-cpu.so",
+        "libggml-base.so",
+        "libm.so",
+        "libdl.so",
+        "libc.so"
+      ]
+    },
+    {
+      "path": "lib/arm64-v8a/libllama-bench-impl.so",
+      "bytes": 307144,
+      "load_alignments": [
+        16384,
+        16384,
+        16384
+      ],
+      "needed": [
+        "libllama-common.so",
+        "libllama.so",
+        "libggml.so",
+        "libggml-cpu.so",
+        "libggml-base.so",
+        "libm.so",
+        "libdl.so",
+        "libc.so"
+      ]
+    },
+    {
+      "path": "lib/arm64-v8a/libllama-common.so",
+      "bytes": 3590480,
+      "load_alignments": [
+        16384,
+        16384,
+        16384
+      ],
+      "needed": [
+        "libllama.so",
+        "libggml.so",
+        "libggml-cpu.so",
+        "libggml-base.so",
+        "libm.so",
+        "libdl.so",
+        "libc.so"
+      ]
+    },
+    {
+      "path": "lib/arm64-v8a/libllama-completion-impl.so",
+      "bytes": 95488,
+      "load_alignments": [
+        16384,
+        16384,
+        16384
+      ],
+      "needed": [
+        "libllama-common.so",
+        "libllama.so",
+        "libggml.so",
+        "libggml-cpu.so",
+        "libggml-base.so",
+        "libm.so",
+        "libdl.so",
+        "libc.so"
+      ]
+    },
+    {
+      "path": "lib/arm64-v8a/libllama-fit-params-impl.so",
+      "bytes": 43624,
+      "load_alignments": [
+        16384,
+        16384,
+        16384
+      ],
+      "needed": [
+        "libllama-common.so",
+        "libllama.so",
+        "libggml.so",
+        "libggml-cpu.so",
+        "libggml-base.so",
+        "libm.so",
+        "libdl.so",
+        "libc.so"
+      ]
+    },
+    {
+      "path": "lib/arm64-v8a/libllama-perplexity-impl.so",
+      "bytes": 200792,
+      "load_alignments": [
+        16384,
+        16384,
+        16384
+      ],
+      "needed": [
+        "libllama-common.so",
+        "libllama.so",
+        "libggml.so",
+        "libggml-cpu.so",
+        "libggml-base.so",
+        "libm.so",
+        "libdl.so",
+        "libc.so"
+      ]
+    },
+    {
+      "path": "lib/arm64-v8a/libllama-quantize-impl.so",
+      "bytes": 159096,
+      "load_alignments": [
+        16384,
+        16384,
+        16384
+      ],
+      "needed": [
+        "libllama-common.so",
+        "libllama.so",
+        "libggml.so",
+        "libggml-cpu.so",
+        "libggml-base.so",
+        "libm.so",
+        "libdl.so",
+        "libc.so"
+      ]
+    },
+    {
+      "path": "lib/arm64-v8a/libllama.so",
+      "bytes": 2890552,
+      "load_alignments": [
+        16384,
+        16384,
+        16384
+      ],
+      "needed": [
+        "libggml.so",
+        "libggml-cpu.so",
+        "libggml-base.so",
+        "libm.so",
+        "libdl.so",
+        "libc.so"
+      ]
+    },
+    {
+      "path": "lib/arm64-v8a/libminicpm_v_demo.so",
+      "bytes": 321736,
+      "load_alignments": [
+        16384,
+        16384,
+        16384
+      ],
+      "needed": [
+        "libmtmd.so",
+        "libandroid.so",
+        "liblog.so",
+        "libllama-common.so",
+        "libllama.so",
+        "libggml.so",
+        "libggml-cpu.so",
+        "libggml-base.so",
+        "libm.so",
+        "libdl.so",
+        "libc.so"
+      ]
+    },
+    {
+      "path": "lib/arm64-v8a/libmtmd.so",
+      "bytes": 965448,
+      "load_alignments": [
+        16384,
+        16384,
+        16384
+      ],
+      "needed": [
+        "libllama.so",
+        "libggml.so",
+        "libggml-cpu.so",
+        "libggml-base.so",
+        "libm.so",
+        "libdl.so",
+        "libc.so"
+      ]
+    },
+    {
+      "path": "lib/arm64-v8a/libomni.so",
+      "bytes": 1235496,
+      "load_alignments": [
+        16384,
+        16384,
+        16384
+      ],
+      "needed": [
+        "libllama-common.so",
+        "libllama.so",
+        "libggml.so",
+        "libggml-cpu.so",
+        "libggml-base.so",
+        "libm.so",
+        "libdl.so",
+        "libc.so"
+      ]
+    },
+    {
+      "path": "lib/arm64-v8a/libomp.so",
+      "bytes": 961440,
+      "load_alignments": [
+        16384,
+        16384,
+        16384,
+        16384
+      ],
+      "needed": [
+        "libdl.so",
+        "libc.so"
+      ]
+    }
+  ],
+  "model_catalogue_in_dex": "PASS",
+  "gguf_weights_in_apk": false,
+  "wav_or_ref_audios_in_apk": false,
+  "runtime_model_tested": false,
+  "tests": {
+    "tests": 3,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "pinned_archive_patch_apply": "PASS",
+  "packaged_license_mirrors": "PASS",
+  "public_upload_performed": false,
+  "lint": {
+    "errors": 9,
+    "warnings": 71,
+    "status": "FAIL \u2014 disclosed upstream issues, no suppression"
+  },
+  "review_scope": "Bounded practical license/attribution review, not legal guarantee; see licenses/android-upstream-source-review.json and third-party-notices.txt."
+}

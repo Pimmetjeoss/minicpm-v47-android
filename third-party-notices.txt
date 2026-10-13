@@ -1,0 +1,223 @@
+THIRD-PARTY NOTICES — Android debug distribution
+
+Scope and evidence
+==================
+Application source parent: 68f53d67a418dd6444659c39005dd5cc4097071c.
+Native source: 96bbf61710d44421ea54e63f5194f9b17c20d877 (llama.cpp-omni).
+Local integration changes are not represented by these upstream revision IDs.
+The inventory is for debugRuntimeClasspath, resolved offline by Gradle, plus
+native libraries present in the inspected arm64-v8a debug APK and their
+compiled source/header dependencies. Build plugins and test-only dependencies
+are not runtime entries. BOMs and metadata-only wrapper modules are excluded
+from the artifact inventory. The packaging build must include these assets.
+Full license texts are in licenses/. Machine-readable evidence and resolved
+artifact SHA-256 hashes are in licenses/runtime-license-inventory.json.
+
+Application
+===========
+The application repository declares MIT; see app-MIT.txt. Model weights are
+not bundled or licensed by these notices. Downloaded model files remain subject
+to the publisher's terms.
+
+Android/JVM runtime artifacts
+=============================
+64 distinct resolved JAR/AAR artifacts:
+  androidx.activity:activity-ktx:1.8.0 — Apache-2.0.txt
+  androidx.activity:activity:1.8.0 — Apache-2.0.txt
+  androidx.annotation:annotation-experimental:1.3.0 — Apache-2.0.txt
+  androidx.annotation:annotation-jvm:1.6.0 — Apache-2.0.txt
+  androidx.appcompat:appcompat-resources:1.6.1 — Apache-2.0.txt
+  androidx.appcompat:appcompat:1.6.1 — Apache-2.0.txt
+  androidx.arch.core:core-common:2.2.0 — Apache-2.0.txt
+  androidx.arch.core:core-runtime:2.2.0 — Apache-2.0.txt
+  androidx.cardview:cardview:1.0.0 — Apache-2.0.txt
+  androidx.collection:collection:1.1.0 — Apache-2.0.txt
+  androidx.concurrent:concurrent-futures:1.1.0 — Apache-2.0.txt
+  androidx.constraintlayout:constraintlayout-core:1.0.4 — Apache-2.0.txt
+  androidx.constraintlayout:constraintlayout:2.1.4 — Apache-2.0.txt
+  androidx.coordinatorlayout:coordinatorlayout:1.2.0 — Apache-2.0.txt
+  androidx.core:core-ktx:1.10.1 — Apache-2.0.txt
+  androidx.core:core:1.10.1 — Apache-2.0.txt
+  androidx.cursoradapter:cursoradapter:1.0.0 — Apache-2.0.txt
+  androidx.customview:customview-poolingcontainer:1.0.0 — Apache-2.0.txt
+  androidx.customview:customview:1.1.0 — Apache-2.0.txt
+  androidx.databinding:viewbinding:9.1.1 — Apache-2.0.txt
+  androidx.documentfile:documentfile:1.0.0 — Apache-2.0.txt
+  androidx.drawerlayout:drawerlayout:1.1.1 — Apache-2.0.txt
+  androidx.dynamicanimation:dynamicanimation:1.0.0 — Apache-2.0.txt
+  androidx.emoji2:emoji2-views-helper:1.2.0 — Apache-2.0.txt
+  androidx.emoji2:emoji2:1.2.0 — Apache-2.0.txt
+  androidx.fragment:fragment:1.3.6 — Apache-2.0.txt
+  androidx.interpolator:interpolator:1.0.0 — Apache-2.0.txt
+  androidx.legacy:legacy-support-core-utils:1.0.0 — Apache-2.0.txt
+  androidx.lifecycle:lifecycle-common:2.6.2 — Apache-2.0.txt
+  androidx.lifecycle:lifecycle-livedata-core:2.6.2 — Apache-2.0.txt
+  androidx.lifecycle:lifecycle-livedata:2.6.2 — Apache-2.0.txt
+  androidx.lifecycle:lifecycle-process:2.6.2 — Apache-2.0.txt
+  androidx.lifecycle:lifecycle-runtime-ktx:2.6.2 — Apache-2.0.txt
+  androidx.lifecycle:lifecycle-runtime:2.6.2 — Apache-2.0.txt
+  androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2 — Apache-2.0.txt
+  androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2 — Apache-2.0.txt
+  androidx.lifecycle:lifecycle-viewmodel:2.6.2 — Apache-2.0.txt
+  androidx.loader:loader:1.0.0 — Apache-2.0.txt
+  androidx.localbroadcastmanager:localbroadcastmanager:1.0.0 — Apache-2.0.txt
+  androidx.print:print:1.0.0 — Apache-2.0.txt
+  androidx.profileinstaller:profileinstaller:1.3.0 — Apache-2.0.txt
+  androidx.recyclerview:recyclerview:1.3.2 — Apache-2.0.txt
+  androidx.resourceinspection:resourceinspection-annotation:1.0.1 — Apache-2.0.txt
+  androidx.savedstate:savedstate-ktx:1.2.1 — Apache-2.0.txt
+  androidx.savedstate:savedstate:1.2.1 — Apache-2.0.txt
+  androidx.startup:startup-runtime:1.1.1 — Apache-2.0.txt
+  androidx.tracing:tracing:1.0.0 — Apache-2.0.txt
+  androidx.transition:transition:1.2.0 — Apache-2.0.txt
+  androidx.vectordrawable:vectordrawable-animated:1.1.0 — Apache-2.0.txt
+  androidx.vectordrawable:vectordrawable:1.1.0 — Apache-2.0.txt
+  androidx.versionedparcelable:versionedparcelable:1.1.1 — Apache-2.0.txt
+  androidx.viewpager2:viewpager2:1.1.0-beta02 — Apache-2.0.txt
+  androidx.viewpager:viewpager:1.0.0 — Apache-2.0.txt
+  com.atlassian.commonmark:commonmark:0.13.0 — commonmark-BSD-2-Clause.txt
+  com.google.android.material:material:1.10.0 — Apache-2.0.txt
+  com.google.errorprone:error_prone_annotations:2.15.0 — Apache-2.0.txt
+  com.google.guava:listenablefuture:1.0 — Apache-2.0.txt
+  io.noties.markwon:core:4.6.2 — Apache-2.0.txt
+  org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.8.22 — Apache-2.0.txt
+  org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.8.22 — Apache-2.0.txt
+  org.jetbrains.kotlin:kotlin-stdlib:2.2.10 — Apache-2.0.txt
+  org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.4 — Apache-2.0.txt
+  org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.6.4 — Apache-2.0.txt
+  org.jetbrains:annotations:13.0 — Apache-2.0.txt
+
+AndroidX, Material Components, Markwon, Kotlin, Kotlin coroutines, JetBrains
+annotations, Error Prone annotations and Guava ListenableFuture declare
+Apache-2.0 in the resolved published POMs (Guava via its parent POM).
+Kotlin stdlib 2.2.10 additionally incorporates BSD-3-Clause ThreeTenBP and
+Boost-1.0 code; see the bounded upstream source review below.
+CommonMark 0.13.0 instead includes BSD-2-Clause with Copyright (c) 2015-2016,
+Atlassian Pty Ltd; its exact embedded text is commonmark-BSD-2-Clause.txt.
+All resolved JARs/AARs and nested classes.jar files were scanned for embedded
+license/NOTICE entries; only CommonMark supplied such an entry in this scan.
+This is an artifact inspection, not a claim that every upstream source has
+been audited for additional attribution requirements.
+
+Native components actually packaged or incorporated
+===================================================
+- llama.cpp-omni, ggml, llama-common, mtmd, omni and voxcpm2 runtime code:
+  native LICENSE declares MIT, Copyright (c) 2023-2026 The ggml authors and
+  contributors. See llama-ggml-MIT.txt. CMake links voxcpm2 runtime/LLM/FSQ/
+  acoustic static archives into the application JNI library.
+- nlohmann JSON: MIT, exact upstream text in nlohmann-json-MIT.txt. Ninja
+  dependency records show json.hpp/json_fwd.hpp in llama and llama-common.
+- cpp-httplib: MIT, exact upstream text in cpp-httplib-MIT.txt. Despite
+  LLAMA_CURL=OFF and LLAMA_OPENSSL=OFF, the build links libcpp-httplib.a into
+  libllama-common.so; download.cpp/hf-cache.cpp include httplib.h.
+- stb_image: MIT alternative selected; exact dual-license block retained in
+  stb-image-LICENSE.txt. Compiled into mtmd-helper.cpp and omni.cpp.
+- miniaudio: MIT No Attribution (MIT-0) alternative selected; exact
+  dual-license block retained in miniaudio-LICENSE.txt. Compiled into
+  mtmd-helper.cpp and audition.cpp. Upstream Copyright 2026 David Reid.
+- llamafile matrix multiplication: MIT, Copyright 2024 Mozilla Foundation;
+  exact sgemm.cpp notice in llamafile-MIT.txt. Both baseline and ARMv8.6 CPU
+  builds enable GGML_LLAMAFILE and compile this source.
+- KleidiAI 1.24.0: Apache-2.0, Copyright 2024-2026 Arm Limited and/or its
+  affiliates. Fetched source CMakeLists.txt identifies version 1.24.0;
+  compiled dependency files declare Apache-2.0. See Apache-2.0.txt.
+  The separate ggml KleidiAI integration declares MIT, Copyright 2025-2026
+  Arm Limited and/or its affiliates; see ggml-kleidiai-integration-MIT.txt.
+- LLVM OpenMP: libomp.so from Android NDK 27.0.12077973 is directly linked
+  by ggml-base and ggml-cpu and present in the APK.
+- libc++, libc++abi, libunwind and compiler-rt builtins: NDK C++ link rules
+  use -static-libstdc++; libc++.a's linker script selects libc++_static and
+  libc++abi, while the compiler driver selects libunwind and compiler-rt
+  builtins. There is no separately packaged libc++_shared.so in the inspected
+  APK. Runtime licensing includes Apache-2.0 with LLVM exceptions and legacy
+  notices. Android-NDK-r27-toolchain-NOTICE.txt retains the COMPLETE supplied
+  NDK toolchain notice bundle, including libc++, libc++abi, OpenMP, compiler-rt
+  and unwind notices. This deliberately broad bundle is not a claim that all
+  other compiler/tool components described in it ship in the APK.
+- Android system libraries (android, log, libc, libm, libdl) are platform
+  dependencies, not copies bundled in this distribution.
+
+Packaged native library inventory
+=================================
+  lib/arm64-v8a/libggml-base.so
+  lib/arm64-v8a/libggml-cpu-v86.so
+  lib/arm64-v8a/libggml-cpu.so
+  lib/arm64-v8a/libggml.so
+  lib/arm64-v8a/libkleidiai.so
+  lib/arm64-v8a/libllama-batched-bench-impl.so
+  lib/arm64-v8a/libllama-bench-impl.so
+  lib/arm64-v8a/libllama-common.so
+  lib/arm64-v8a/libllama-completion-impl.so
+  lib/arm64-v8a/libllama-fit-params-impl.so
+  lib/arm64-v8a/libllama-perplexity-impl.so
+  lib/arm64-v8a/libllama-quantize-impl.so
+  lib/arm64-v8a/libllama.so
+  lib/arm64-v8a/libminicpm_v_demo.so
+  lib/arm64-v8a/libmtmd.so
+  lib/arm64-v8a/libomni.so
+  lib/arm64-v8a/libomp.so
+
+Exclusions and publication review items
+======================================
+minja and sheredom/subprocess.h exist in the source tree but do not appear in
+this native build's dependency records; their texts are not packaged merely
+because they are vendored. Curl and OpenSSL are disabled and not inventoried
+as bundled libraries. Conversion scripts, desktop-only dependencies and model
+weights are outside this binary inventory.
+
+No resolved runtime artifact is missing a license declaration or full text
+in this inventory. This is not a legal clearance certificate.
+Both upstream default reference WAV recordings are excluded from this APK
+by the reproducible Android asset ignore pattern (*.wav and ref_audios).
+Their provenance/speaker permission was not established: neither their bytes
+nor binary patches are distributed here. TTS preset buttons are disabled and
+an explicit unavailable warning is displayed. User-recorded/no-reference TTS
+remains separate from MiniCPM-V 4.7 1B and untested. Do not redistribute a full
+upstream checkout or re-enable these voice assets without a separate review.
+Bounded upstream source review
+=============================
+Matching official published source JARs for all 64 resolved coordinates were
+retrieved from Google Maven or Maven Central and inspected for license/NOTICE
+entries and source copyright headers. Exact versioned URLs and review scope
+are recorded in licenses/android-upstream-source-review.json; source-header
+attributions are retained in licenses/Android-JVM-source-attributions.txt.
+
+The source-level omissions found by this review have been addressed:
+- kotlinx.coroutines 1.6.4 supplies license/NOTICE.txt outside its JARs. Its
+  exact Apache section 4(d) attribution is retained in
+  licenses/kotlinx-coroutines-1.6.4-NOTICE.txt:
+  kotlinx.coroutines library.
+  Copyright 2016-2021 JetBrains s.r.o and respective authors and developers
+- Kotlin stdlib 2.2.10 includes kotlin.time.Instant derived from ThreeTenBP.
+  The upstream 3-clause BSD copyright, conditions and disclaimer are retained
+  in licenses/Kotlin-2.2.10-ThreeTenBP-BSD-3-Clause.txt. This supplemental
+  license is required in addition to the stdlib's main Apache-2.0 license.
+- Kotlin JVM math code is derived from Boost special math functions,
+  Copyright Eric Ford & Hubert Holin 2001. Its Boost-1.0 text is retained in
+  licenses/Kotlin-2.2.10-Boost-1.0.txt. Boost exempts solely machine-executable
+  object-code copies from notice inclusion; the text is included for clarity.
+- Kotlin's compiler-distribution NOTICE files at v2.2.10 and v1.8.22 are
+  conservatively retained as Kotlin-2.2.10-upstream-NOTICE.txt and
+  Kotlin-1.8.22-upstream-NOTICE.txt. Their compiler wording is preserved, not
+  a claim that the compiler ships in the APK. The 1.8.22 jdk7/jdk8 runtime
+  wrappers' published source JARs contain only module descriptors.
+- Kotlin's GWT-derived collections and Guava-derived unsigned operations are
+  covered by Apache-2.0; their copyright headers are in the attribution file.
+- CommonMark 0.13.0's matching upstream BSD text agrees with the existing
+  embedded license. Markwon v4.6.2, Material 1.10.0 and Error Prone v2.15.0
+  upstream trees contained no separate NOTICE file. Guava listenablefuture
+  1.0's exact published source was checked; Guava v26.0 is corroboration for
+  its 26.0-android parent, not an assertion of an exact Android source tag.
+
+No additional known Android/JVM license-text or NOTICE omission remains from
+this bounded review. This replaces the previous unperformed-source-review
+blocker; it is not an exhaustive legal clearance certificate. AndroidX and
+JetBrains annotations were reviewed via their exact official source JARs,
+not a historical full repository/legal audit. The AndroidX current root
+check is supplementary only. Published source JARs may omit repository-level
+material, resources or generated inputs. Kotlin's large recursive repository
+tree response was truncated, so its explicit versioned license directory and
+license/README.md were fetched separately. Compiler/plugin, JS/Wasm-only and
+website-theme licenses are not assigned to this Android runtime. Changes to
+resolved versions or packaged components require a fresh review. Unknown WAV
+provenance remains an upstream issue, not a blocker for this WAV-free package.

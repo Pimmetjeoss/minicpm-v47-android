@@ -1,0 +1,395 @@
+Android/JVM source-header attribution supplement
+Exact official published source JAR versions; main terms are Apache-2.0 unless otherwise stated.
+These retained copyright lines do not alter license terms. Source typos are preserved.
+
+androidx.activity:activity-ktx:1.8.0
+https://dl.google.com/dl/android/maven2/androidx/activity/activity-ktx/1.8.0/activity-ktx-1.8.0-sources.jar
+Copyright 2018 The Android Open Source Project
+Copyright 2020 The Android Open Source Project
+
+androidx.activity:activity:1.8.0
+https://dl.google.com/dl/android/maven2/androidx/activity/activity/1.8.0/activity-1.8.0-sources.jar
+Copyright (C) 2020 The Android Open Source Project
+Copyright 2018 The Android Open Source Project
+Copyright 2019 The Android Open Source Project
+Copyright 2020 The Android Open Source Project
+Copyright 2021 The Android Open Source Project
+Copyright 2022 The Android Open Source Project
+Copyright 2023 The Android Open Source Project
+
+androidx.annotation:annotation-experimental:1.3.0
+https://dl.google.com/dl/android/maven2/androidx/annotation/annotation-experimental/1.3.0/annotation-experimental-1.3.0-sources.jar
+Copyright 2019 The Android Open Source Project
+Copyright 2020 The Android Open Source Project
+
+androidx.annotation:annotation-jvm:1.6.0
+https://dl.google.com/dl/android/maven2/androidx/annotation/annotation-jvm/1.6.0/annotation-jvm-1.6.0-sources.jar
+Copyright (C) 2013 The Android Open Source Project
+Copyright (C) 2014 The Android Open Source Project
+Copyright (C) 2015 The Android Open Source Project
+Copyright (C) 2016 The Android Open Source Project
+Copyright (C) 2017 The Android Open Source Project
+Copyright (C) 2020 The Android Open Source Project
+Copyright (C) 2021 The Android Open Source Project
+Copyright (C) 2022 The Android Open Source Project
+Copyright 2018 The Android Open Source Project
+Copyright 2019 The Android Open Source Project
+Copyright 2021 The Android Open Source Project
+
+androidx.appcompat:appcompat-resources:1.6.1
+https://dl.google.com/dl/android/maven2/androidx/appcompat/appcompat-resources/1.6.1/appcompat-resources-1.6.1-sources.jar
+Copyright (C) 2014 The Android Open Source Project
+Copyright (C) 2015 The Android Open Source Project
+Copyright (C) 2018 The Android Open Source Project
+Copyright (C) 2019 The Android Open Source Project
+Copyright 2016 The Android Open Source Project
+Copyright 2021 The Android Open Source Project
+
+androidx.appcompat:appcompat:1.6.1
+https://dl.google.com/dl/android/maven2/androidx/appcompat/appcompat/1.6.1/appcompat-1.6.1-sources.jar
+Copyright (C) 2006 The Android Open Source Project
+Copyright (C) 2010 The Android Open Source Project
+Copyright (C) 2011 The Android Open Source Project
+Copyright (C) 2012 The Android Open Source Project
+Copyright (C) 2013 The Android Open Source Project
+Copyright (C) 2014 The Android Open Source Project
+Copyright (C) 2015 Google Inc.
+Copyright (C) 2015 The Android Open Source Project
+Copyright (C) 2016 The Android Open Source Project
+Copyright (C) 2017 The Android Open Source Project
+Copyright (C) 2021 The Android Open Source Project
+Copyright 2017 The Android Open Source Project
+Copyright 2018 The Android Open Source Project
+Copyright 2021 The Android Open Source Project
+Copyright 2022 The Android Open Source Project
+
+androidx.arch.core:core-common:2.2.0
+https://dl.google.com/dl/android/maven2/androidx/arch/core/core-common/2.2.0/core-common-2.2.0-sources.jar
+Copyright 2018 The Android Open Source Project
+
+androidx.arch.core:core-runtime:2.2.0
+https://dl.google.com/dl/android/maven2/androidx/arch/core/core-runtime/2.2.0/core-runtime-2.2.0-sources.jar
+Copyright (C) 2017 The Android Open Source Project
+
+androidx.cardview:cardview:1.0.0
+https://dl.google.com/dl/android/maven2/androidx/cardview/cardview/1.0.0/cardview-1.0.0-sources.jar
+Copyright 2018 The Android Open Source Project
+
+androidx.collection:collection:1.1.0
+https://dl.google.com/dl/android/maven2/androidx/collection/collection/1.1.0/collection-1.1.0-sources.jar
+Copyright 2018 The Android Open Source Project
+
+androidx.concurrent:concurrent-futures:1.1.0
+https://dl.google.com/dl/android/maven2/androidx/concurrent/concurrent-futures/1.1.0/concurrent-futures-1.1.0-sources.jar
+Copyright 2018 The Android Open Source Project
+
+androidx.constraintlayout:constraintlayout-core:1.0.4
+https://dl.google.com/dl/android/maven2/androidx/constraintlayout/constraintlayout-core/1.0.4/constraintlayout-core-1.0.4-sources.jar
+Copyright (C) 2015 The Android Open Source Project
+Copyright (C) 2016 The Android Open Source Project
+Copyright (C) 2017 The Android Open Source Project
+Copyright (C) 2018 The Android Open Source Project
+Copyright (C) 2019 The Android Open Source Project
+Copyright (C) 2020 The Android Open Source Project
+Copyright (C) 2021 The Android Open Source Project
+Copyright 2019 The Android Open Source Project
+Copyright 2021 The Android Open Source Project
+
+androidx.constraintlayout:constraintlayout:2.1.4
+https://dl.google.com/dl/android/maven2/androidx/constraintlayout/constraintlayout/2.1.4/constraintlayout-2.1.4-sources.jar
+Copyright (C) 2015 The Android Open Source Project
+Copyright (C) 2016 The Android Open Source Project
+Copyright (C) 2017 The Android Open Source Project
+Copyright (C) 2018 The Android Open Source Project
+Copyright (C) 2019 The Android Open Source Project
+Copyright (C) 2020 The Android Open Source Project
+Copyright (C) 2021 The Android Open Source Project
+
+androidx.coordinatorlayout:coordinatorlayout:1.2.0
+https://dl.google.com/dl/android/maven2/androidx/coordinatorlayout/coordinatorlayout/1.2.0/coordinatorlayout-1.2.0-sources.jar
+Copyright 2018 The Android Open Source Project
+
+androidx.core:core-ktx:1.10.1
+https://dl.google.com/dl/android/maven2/androidx/core/core-ktx/1.10.1/core-ktx-1.10.1-sources.jar
+Copyright (C) 2017 The Android Open Source Project
+Copyright (C) 2018 The Android Open Source Project
+Copyright (C) 20188 The Android Open Source Project
+Copyright (C) 2019 The Android Open Source Project
+Copyright 2018 The Android Open Source Project
+Copyright 2022 The Android Open Source Project
+
+androidx.core:core:1.10.1
+https://dl.google.com/dl/android/maven2/androidx/core/core/1.10.1/core-1.10.1-sources.jar
+Copyright (C) 2009 The Android Open Source Project
+Copyright (C) 2011 The Android Open Source Project
+Copyright (C) 2012 The Android Open Source Project
+Copyright (C) 2013 The Android Open Source Project
+Copyright (C) 2014 The Android Open Source Project
+Copyright (C) 2015 The Android Open Source Project
+Copyright (C) 2016 The Android Open Source Project
+Copyright (C) 2017 The Android Open Source Project
+Copyright (C) 2018 The Android Open Source Project
+Copyright (C) 2019 The Android Open Source Project
+Copyright (C) 2021 The Android Open Source Project
+Copyright (C) 2022 The Android Open Source Project
+Copyright 2015 The Android Open Source Project
+Copyright 2017 The Android Open Source Project
+Copyright 2018 The Android Open Source Project
+Copyright 2019 The Android Open Source Project
+Copyright 2020 The Android Open Source Project
+Copyright 2021 The Android Open Source Project
+Copyright 2022 The Android Open Source Project
+
+androidx.cursoradapter:cursoradapter:1.0.0
+https://dl.google.com/dl/android/maven2/androidx/cursoradapter/cursoradapter/1.0.0/cursoradapter-1.0.0-sources.jar
+Copyright 2018 The Android Open Source Project
+
+androidx.customview:customview-poolingcontainer:1.0.0
+https://dl.google.com/dl/android/maven2/androidx/customview/customview-poolingcontainer/1.0.0/customview-poolingcontainer-1.0.0-sources.jar
+Copyright 2021 The Android Open Source Project
+
+androidx.customview:customview:1.1.0
+https://dl.google.com/dl/android/maven2/androidx/customview/customview/1.1.0/customview-1.1.0-sources.jar
+Copyright 2018 The Android Open Source Project
+Copyright 2019 The Android Open Source Project
+
+androidx.databinding:viewbinding:9.1.1
+https://dl.google.com/dl/android/maven2/androidx/databinding/viewbinding/9.1.1/viewbinding-9.1.1-sources.jar
+Copyright (C) 2019 The Android Open Source Project
+Copyright (C) 2021 The Android Open Source Project
+
+androidx.documentfile:documentfile:1.0.0
+https://dl.google.com/dl/android/maven2/androidx/documentfile/documentfile/1.0.0/documentfile-1.0.0-sources.jar
+Copyright 2018 The Android Open Source Project
+
+androidx.drawerlayout:drawerlayout:1.1.1
+https://dl.google.com/dl/android/maven2/androidx/drawerlayout/drawerlayout/1.1.1/drawerlayout-1.1.1-sources.jar
+Copyright 2018 The Android Open Source Project
+
+androidx.dynamicanimation:dynamicanimation:1.0.0
+https://dl.google.com/dl/android/maven2/androidx/dynamicanimation/dynamicanimation/1.0.0/dynamicanimation-1.0.0-sources.jar
+Copyright (C) 2017 The Android Open Source Project
+
+androidx.emoji2:emoji2-views-helper:1.2.0
+https://dl.google.com/dl/android/maven2/androidx/emoji2/emoji2-views-helper/1.2.0/emoji2-views-helper-1.2.0-sources.jar
+Copyright 2021 The Android Open Source Project
+
+androidx.emoji2:emoji2:1.2.0
+https://dl.google.com/dl/android/maven2/androidx/emoji2/emoji2/1.2.0/emoji2-1.2.0-sources.jar
+Copyright 2021 The Android Open Source Project
+Copyright 2022 The Android Open Source Project
+
+androidx.fragment:fragment:1.3.6
+https://dl.google.com/dl/android/maven2/androidx/fragment/fragment/1.3.6/fragment-1.3.6-sources.jar
+Copyright 2018 The Android Open Source Project
+Copyright 2019 The Android Open Source Project
+Copyright 2020 The Android Open Source Project
+
+androidx.interpolator:interpolator:1.0.0
+https://dl.google.com/dl/android/maven2/androidx/interpolator/interpolator/1.0.0/interpolator-1.0.0-sources.jar
+Copyright 2018 The Android Open Source Project
+
+androidx.legacy:legacy-support-core-utils:1.0.0
+https://dl.google.com/dl/android/maven2/androidx/legacy/legacy-support-core-utils/1.0.0/legacy-support-core-utils-1.0.0-sources.jar
+Copyright 2018 The Android Open Source Project
+
+androidx.lifecycle:lifecycle-common:2.6.2
+https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-common/2.6.2/lifecycle-common-2.6.2-sources.jar
+Copyright (C) 2017 The Android Open Source Project
+Copyright 2018 The Android Open Source Project
+Copyright 2019 The Android Open Source Project
+
+androidx.lifecycle:lifecycle-livedata-core:2.6.2
+https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-livedata-core/2.6.2/lifecycle-livedata-core-2.6.2-sources.jar
+Copyright (C) 2017 The Android Open Source Project
+
+androidx.lifecycle:lifecycle-livedata:2.6.2
+https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-livedata/2.6.2/lifecycle-livedata-2.6.2-sources.jar
+Copyright (C) 2017 The Android Open Source Project
+
+androidx.lifecycle:lifecycle-process:2.6.2
+https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-process/2.6.2/lifecycle-process-2.6.2-sources.jar
+Copyright (C) 2017 The Android Open Source Project
+Copyright 2021 The Android Open Source Project
+
+androidx.lifecycle:lifecycle-runtime-ktx:2.6.2
+https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-runtime-ktx/2.6.2/lifecycle-runtime-ktx-2.6.2-sources.jar
+Copyright 2019 The Android Open Source Project
+Copyright 2020 The Android Open Source Project
+Copyright 2021 The Android Open Source Project
+
+androidx.lifecycle:lifecycle-runtime:2.6.2
+https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-runtime/2.6.2/lifecycle-runtime-2.6.2-sources.jar
+Copyright (C) 2017 The Android Open Source Project
+Copyright 2019 The Android Open Source Project
+
+androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2
+https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-viewmodel-ktx/2.6.2/lifecycle-viewmodel-ktx-2.6.2-sources.jar
+Copyright 2018 The Android Open Source Project
+
+androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2
+https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-viewmodel-savedstate/2.6.2/lifecycle-viewmodel-savedstate-2.6.2-sources.jar
+Copyright 2018 The Android Open Source Project
+Copyright 2019 The Android Open Source Project
+Copyright 2021 The Android Open Source Project
+
+androidx.lifecycle:lifecycle-viewmodel:2.6.2
+https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-viewmodel/2.6.2/lifecycle-viewmodel-2.6.2-sources.jar
+Copyright (C) 2017 The Android Open Source Project
+Copyright 2019 The Android Open Source Project
+Copyright 2020 The Android Open Source Project
+Copyright 2021 The Android Open Source Project
+Copyright 2022 The Android Open Source Project
+Copyright 2023 The Android Open Source Project
+
+androidx.loader:loader:1.0.0
+https://dl.google.com/dl/android/maven2/androidx/loader/loader/1.0.0/loader-1.0.0-sources.jar
+Copyright 2018 The Android Open Source Project
+
+androidx.localbroadcastmanager:localbroadcastmanager:1.0.0
+https://dl.google.com/dl/android/maven2/androidx/localbroadcastmanager/localbroadcastmanager/1.0.0/localbroadcastmanager-1.0.0-sources.jar
+Copyright 2018 The Android Open Source Project
+
+androidx.print:print:1.0.0
+https://dl.google.com/dl/android/maven2/androidx/print/print/1.0.0/print-1.0.0-sources.jar
+Copyright 2018 The Android Open Source Project
+
+androidx.profileinstaller:profileinstaller:1.3.0
+https://dl.google.com/dl/android/maven2/androidx/profileinstaller/profileinstaller/1.3.0/profileinstaller-1.3.0-sources.jar
+Copyright (C) 2021 The Android Open Source Project
+Copyright 2021 The Android Open Source Project
+Copyright 2022 The Android Open Source Project
+
+androidx.recyclerview:recyclerview:1.3.2
+https://dl.google.com/dl/android/maven2/androidx/recyclerview/recyclerview/1.3.2/recyclerview-1.3.2-sources.jar
+Copyright 2018 The Android Open Source Project
+Copyright 2020 The Android Open Source Project
+Copyright 2022 The Android Open Source Project
+
+androidx.resourceinspection:resourceinspection-annotation:1.0.1
+https://dl.google.com/dl/android/maven2/androidx/resourceinspection/resourceinspection-annotation/1.0.1/resourceinspection-annotation-1.0.1-sources.jar
+Copyright 2021 The Android Open Source Project
+
+androidx.savedstate:savedstate-ktx:1.2.1
+https://dl.google.com/dl/android/maven2/androidx/savedstate/savedstate-ktx/1.2.1/savedstate-ktx-1.2.1-sources.jar
+Copyright 2020 The Android Open Source Project
+
+androidx.savedstate:savedstate:1.2.1
+https://dl.google.com/dl/android/maven2/androidx/savedstate/savedstate/1.2.1/savedstate-1.2.1-sources.jar
+Copyright 2018 The Android Open Source Project
+Copyright 2019 The Android Open Source Project
+Copyright 2020 The Android Open Source Project
+
+androidx.startup:startup-runtime:1.1.1
+https://dl.google.com/dl/android/maven2/androidx/startup/startup-runtime/1.1.1/startup-runtime-1.1.1-sources.jar
+Copyright 2020 The Android Open Source Project
+
+androidx.tracing:tracing:1.0.0
+https://dl.google.com/dl/android/maven2/androidx/tracing/tracing/1.0.0/tracing-1.0.0-sources.jar
+Copyright 2020 The Android Open Source Project
+
+androidx.transition:transition:1.2.0
+https://dl.google.com/dl/android/maven2/androidx/transition/transition/1.2.0/transition-1.2.0-sources.jar
+Copyright (C) 2016 The Android Open Source Project
+Copyright (C) 2017 The Android Open Source Project
+Copyright 2019 The Android Open Source Project
+
+androidx.vectordrawable:vectordrawable-animated:1.1.0
+https://dl.google.com/dl/android/maven2/androidx/vectordrawable/vectordrawable-animated/1.1.0/vectordrawable-animated-1.1.0-sources.jar
+Copyright (C) 2015 The Android Open Source Project
+Copyright (C) 2017 The Android Open Source Project
+
+androidx.vectordrawable:vectordrawable:1.1.0
+https://dl.google.com/dl/android/maven2/androidx/vectordrawable/vectordrawable/1.1.0/vectordrawable-1.1.0-sources.jar
+Copyright (C) 2015 The Android Open Source Project
+
+androidx.versionedparcelable:versionedparcelable:1.1.1
+https://dl.google.com/dl/android/maven2/androidx/versionedparcelable/versionedparcelable/1.1.1/versionedparcelable-1.1.1-sources.jar
+Copyright 2018 The Android Open Source Project
+
+androidx.viewpager2:viewpager2:1.1.0-beta02
+https://dl.google.com/dl/android/maven2/androidx/viewpager2/viewpager2/1.1.0-beta02/viewpager2-1.1.0-beta02-sources.jar
+Copyright 2017 The Android Open Source Project
+Copyright 2018 The Android Open Source Project
+Copyright 2019 The Android Open Source Project
+Copyright 2021 The Android Open Source Project
+Copyright 2022 The Android Open Source Project
+
+androidx.viewpager:viewpager:1.0.0
+https://dl.google.com/dl/android/maven2/androidx/viewpager/viewpager/1.0.0/viewpager-1.0.0-sources.jar
+Copyright 2018 The Android Open Source Project
+
+com.google.android.material:material:1.10.0
+https://dl.google.com/dl/android/maven2/com/google/android/material/material/1.10.0/material-1.10.0-sources.jar
+Copyright (C) 2014 The Android Open Source Project
+Copyright (C) 2015 The Android Open Source Project
+Copyright (C) 2016 The Android Open Source Project
+Copyright (C) 2017 The Android Open Source Project
+Copyright (C) 2018 The Android Open Source Project
+Copyright (C) 2019 The Android Open Source Project
+Copyright (C) 2020 The Android Open Source Project
+Copyright (C) 2021 The Android Open Source Project
+Copyright (C) 2022 The Android Open Source Project
+Copyright (C) 2023 The Android Open Source Project
+Copyright 2017 The Android Open Source Project
+Copyright 2018 The Android Open Source Project
+Copyright 2019 The Android Open Source Project
+Copyright 2020 The Android Open Source Project
+Copyright 2022 The Android Open Source Project
+Copyright 2023 The Android Open Source Project
+
+com.google.errorprone:error_prone_annotations:2.15.0
+https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.15.0/error_prone_annotations-2.15.0-sources.jar
+Copyright 2014 The Error Prone Authors.
+Copyright 2015 The Error Prone Authors.
+Copyright 2016 The Error Prone Authors.
+Copyright 2017 The Error Prone Authors.
+Copyright 2021 The Error Prone Authors.
+
+com.google.guava:listenablefuture:1.0
+https://repo.maven.apache.org/maven2/com/google/guava/listenablefuture/1.0/listenablefuture-1.0-sources.jar
+Copyright (C) 2007 The Guava Authors
+
+org.jetbrains.kotlin:kotlin-stdlib:2.2.10
+https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/2.2.10/kotlin-stdlib-2.2.10-sources.jar
+Copyright (c) 2007-present, Stephen Colebourne & Michael Nascimento Santos
+Copyright 2007 Google Inc.
+Copyright 2010-2015 JetBrains s.r.o.
+Copyright 2010-2016 JetBrains s.r.o.
+Copyright 2010-2017 JetBrains s.r.o.
+Copyright 2010-2018 JetBrains s.r.o. Use of this source code is governed by the Apache 2.0 license
+Copyright 2010-2018 JetBrains s.r.o. and Kotlin Programming Language contributors.
+Copyright 2010-2019 JetBrains s.r.o. and Kotlin Programming Language contributors.
+Copyright 2010-2020 JetBrains s.r.o. and Kotlin Programming Language contributors.
+Copyright 2010-2021 JetBrains s.r.o. and Kotlin Programming Language contributors.
+Copyright 2010-2022 JetBrains s.r.o. and Kotlin Programming Language contributors.
+Copyright 2010-2023 JetBrains s.r.o. and Kotlin Programming Language contributors.
+Copyright 2010-2024 JetBrains s.r.o. and Kotlin Programming Language contributors.
+Copyright 2010-2025 JetBrains s.r.o. and Kotlin Programming Language contributors.
+Copyright 2011 The Guava Authors
+
+org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.4
+https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-android/1.6.4/kotlinx-coroutines-android-1.6.4-sources.jar
+Copyright 2016-2021 JetBrains s.r.o. Use of this source code is governed by the Apache 2.0 license.
+
+org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.6.4
+https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.6.4/kotlinx-coroutines-core-jvm-1.6.4-sources.jar
+Copyright 2016-2020 JetBrains s.r.o. Use of this source code is governed by the Apache 2.0 license.
+Copyright 2016-2021 JetBrains s.r.o. Use of this source code is governed by the Apache 2.0 license.
+Copyright 2016-2022 JetBrains s.r.o. Use of this source code is governed by the Apache 2.0 license.
+
+org.jetbrains:annotations:13.0
+https://repo.maven.apache.org/maven2/org/jetbrains/annotations/13.0/annotations-13.0-sources.jar
+Copyright 2000-2009 JetBrains s.r.o.
+Copyright 2000-2012 JetBrains s.r.o.
+Copyright 2000-2013 JetBrains s.r.o.
+Copyright 2006 Sascha Weinreuter
+
+Markwon core 4.6.2 (upstream README license section)
+https://raw.githubusercontent.com/noties/Markwon/v4.6.2/README.md
+Copyright 2019 Dimitry Ivanov (legal@noties.io)
+
+Kotlin stdlib JVM MathJVM.kt, 2.2.10 (source comment and upstream license/README.md)
+Copyright Eric Ford & Hubert Holin 2001.
+Boost Software License 1.0: see Kotlin-2.2.10-Boost-1.0.txt.
+ThreeTenBP-derived kotlin.time.Instant: see Kotlin-2.2.10-ThreeTenBP-BSD-3-Clause.txt.
